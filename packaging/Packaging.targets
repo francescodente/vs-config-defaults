@@ -5,6 +5,7 @@
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <Deterministic>true</Deterministic>
+    <DebugType>portable</DebugType>
   </PropertyGroup>
 
   <ItemGroup>
