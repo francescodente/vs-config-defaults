@@ -341,6 +341,10 @@ csharp_style_prefer_primary_constructors = true:silent
 dotnet_diagnostic.CA1859.severity = silent
 dotnet_diagnostic.CA1860.severity = none
 
+
+# CA1862: Use the 'StringComparison' method overloads to perform case-insensitive string comparisons
+dotnet_diagnostic.CA1862.severity = silent
+
 [*.{cs,vb}]
 dotnet_style_operator_placement_when_wrapping = beginning_of_line
 tab_width = 4
